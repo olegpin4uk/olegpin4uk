@@ -8,5 +8,6 @@ public class ScopeDemo {
             x = y * 2;
         }
         //y = 100;
+        System.out.println(x);
     }
 }
