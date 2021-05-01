@@ -3,7 +3,7 @@ public class NestVar {
         int count;
         for (count = 0;count <10; count++){
             System.out.println(count);
-            int count;
+            //int count;
             for (count = 0; count<10;count++){
                 System.out.println("no");
             }
